@@ -171,7 +171,7 @@
       <workItem from="1587451527425" duration="137000" />
       <workItem from="1587451823964" duration="414000" />
       <workItem from="1587477248365" duration="1065000" />
-      <workItem from="1587524706291" duration="557000" />
+      <workItem from="1587524706291" duration="894000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1587478242917</created>
@@ -187,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587524941136</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="提交项目1">
+      <created>1587525431107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587525431107</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +214,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
     <MESSAGE value="提交项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交项目" />
+    <MESSAGE value="提交项目1" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交项目1" />
   </component>
   <component name="masterDetails">
     <states>
